@@ -1,26 +1,14 @@
-# 🌐 Ayaan Ali - Portfolio
+# Ayaan Ali — Portfolio
 
-Welcome to my personal portfolio website!  
-This portfolio showcases my skills, projects, and achievements as a B.Tech CSE student and AI & ML enthusiast.
+A personal portfolio website built as a single HTML page. It presents Ayaan's profile, selected work, and contact links.
 
-## 🚀 Features
-- Responsive design using HTML & CSS
-- Projects section with links to GitHub repositories
-- Contact information and LinkedIn profile
-- Certifications and extracurricular activities
+## Run locally
+Open `portfolio.html` in a browser. No build step is required.
 
-## 📂 Projects
-- **To-Do List Web App** - [View Code](https://github.com/ayaanali/todo-webapp)
-- **Student Grade Calculator** - [View Code](https://github.com/ayaanali/grade-calculator)
-- **Number Guessing Game** - [View Code](https://github.com/ayaanali/number-guessing)
-- **AI Chatbot** - [View Code](https://github.com/ayaanali/ai-chatbot)
+## Project links
+- [CreditLens — Credit Risk Assessment](https://github.com/ayaanrangrerz/CodeAlpha_CreditScoringModel)
+- [NeuralDigits AI — Handwritten Digit Recognition](https://github.com/ayaanrangrerz/CodeAlpha_HandwrittenCharacterRecognition)
+- [GitHub profile](https://github.com/ayaanrangrerz)
+- [LinkedIn profile](https://linkedin.com/in/ayaan-ali-4a4b3a381)
 
-## 📞 Contact
-- Email: ayaanrangrezz1032008@gmail.com  
-- LinkedIn: [Ayaan Ali](https://linkedin.com/in/ayaan-ali-4a4b3a381)  
-
----
-
-### 🔗 Live Portfolio
-Check out my live portfolio here:  
-👉 [https://ayaanali.github.io/portfolio](https://ayaanali.github.io/portfolio)
+Update the page content and links in `portfolio.html` when projects or contact details change.
